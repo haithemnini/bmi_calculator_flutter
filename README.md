@@ -1,16 +1,29 @@
-# bmi_app
+# BMi Calculator Flutter 💪
+🏋️‍♂️ User-friendly, sleek design, instant BMI feedback, health monitoring tool. 📱🚀
 
-A new Flutter project.
+Star⭐ the repo if you like what you see😉.
 
-## Getting Started
+## 📌 Screens
+ 
+![BMi Calculator App with Flutter](https://github.com/haithemnini/bmi_calculator_flutter/assets/88515475/1332dc9a-3d4a-4024-8f97-d432a0c202f5)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 🏋️‍♂️ BMI Range 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| Category          | BMI range - kg/m² | 
+| ----------------- |:-----------------:|
+| Severe Thinness   | <15               |
+| Moderate Thinness | 15 - 16           |
+| Mild Thinness     | 16 - 18.5         |
+| Normal            | 18.5 - 25         |
+| Overweight        | 25 - 30           |
+| Obese Classes     | >30               |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⭐ Additional Features
+
+- 🔄 Real-time BMI calculation.
+- 📊 BMI statistics and trends.
+- 📱 Cross-platform compatibility (iOS and Android).
+- 📝 Personal notes and insights.
+
+  Build a modern, user-friendly BMI Calculator App with Flutter! 🚀📱
